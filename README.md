@@ -13,7 +13,7 @@
 - [x] Sicherheit erhöhen
 - [ ] Hunde A-Z Seite füllen mit Artikeln
 - [ ] Instagram / Facebook Posts einrichten (login benötigt)
-- [ ] 404 Seite einrichten
+- [x] 404 Seite einrichten
 - [ ] Dankes Seite einrichten
 - [ ] Tiktok und Pinterest verlinken + Accounts erstellen
 - [ ] SEO 
