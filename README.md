@@ -1,9 +1,7 @@
 # Todo Liste Sköllis-Beutefang
 
 **Email einrichten**
-- Kontakt Formulare
-- Newsletter
-- Bestellung
+- [ ] #1
 
 
 **Sonstiges**
