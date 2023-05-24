@@ -1,6 +1,7 @@
 # Todo Liste Sköllis-Beutefang
 
 **Email einrichten**
+---
 - [ ] Kontakt Formulare
 - [ ] Newsletter
 - [ ] Bestellung
@@ -8,6 +9,7 @@
 
 
 **Sonstiges**
+---
 - [x] Sicherheit erhöhen
 - [ ] Hunde A-Z Seite füllen mit Artikeln
 - [ ] Instagram / Facebook Posts einrichten (login benötigt)
@@ -21,12 +23,3 @@
 - [x] Lieferung & Rückgabe im Warenkorb bearbeiten! [✓]
 - [x] AGb's seite richtig verlinken [✓]
 - [ ] Gutscheine Prüfen
-
----
-## Aufgabe an alle (lesen):
-- [ ] Agbs
-- [ ] Zahlungsweisen 
-- [ ] Versand und Lieferung
-- [ ] Kontakt
-- [ ] Datenschutz (extrem wichtig) fehler kosten Geld!
-- [ ] WIederrufsbelehrung
