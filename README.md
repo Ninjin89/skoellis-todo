@@ -8,7 +8,7 @@
 
 **Sonstiges**
 - Newsletter einrichten
-- Sicherheit erhöhen
+- Sicherheit erhöhen [✓]
 - Hunde A-Z Seite füllen mit Artikeln
 - Instagram / Facebook Posts einrichten (login benötigt)
 - 404 Seite einrichten
@@ -17,9 +17,9 @@
 - SEO 
 - Eventuelle schreibfehler und Übersetzungen verbessern
 - Litespeed cache richtig einstellen
-- Seiten Optimierung (speed usw)
+- Seiten Optimierung (speed usw) [✓]
 - Lieferung & Rückgabe im Warenkorb bearbeiten! [✓]
-- AGb's seite richtig verlinken
+- AGb's seite richtig verlinken [✓]
 - Gutscheine Prüfen
 
 ---
