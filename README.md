@@ -3,8 +3,8 @@
 **Email einrichten**
 ---
 - [ ] Kontakt Formulare
-- [ ] Newsletter
-- [ ] Bestellung
+- [x] Newsletter
+- [x] Bestellung
 
 
 
@@ -22,4 +22,4 @@
 - [x] Seiten Optimierung (speed usw) [✓]
 - [x] Lieferung & Rückgabe im Warenkorb bearbeiten! [✓]
 - [x] AGb's seite richtig verlinken [✓]
-- [ ] Gutscheine Prüfen
+- [x] Gutscheine Prüfen
