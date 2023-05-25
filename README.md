@@ -5,6 +5,8 @@
 - [ ] Kontakt Formulare
 - [x] Newsletter
 - [x] Bestellung
+- [x] Warenkorb abgebrochen email errinerungen
+- [ ] Bestellungs bestätigungs email anpassen 
 
 
 
@@ -14,7 +16,7 @@
 - [ ] Hunde A-Z Seite füllen mit Artikeln
 - [ ] Instagram / Facebook Posts einrichten (login benötigt)
 - [x] 404 Seite einrichten
-- [ ] Dankes Seite einrichten
+- [x] Dankes Seite einrichten
 - [ ] Tiktok und Pinterest verlinken + Accounts erstellen
 - [ ] SEO 
 - [ ] Eventuelle schreibfehler und Übersetzungen verbessern
