@@ -12,6 +12,7 @@
 
 **Sonstiges**
 ---
+- [x] Gebäck Produkt Bilder verbessern
 - [x] Sicherheit erhöhen
 - [ ] Hunde A-Z Seite füllen mit Artikeln
 - [ ] Instagram / Facebook Posts einrichten (login benötigt)
