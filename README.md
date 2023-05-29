@@ -2,11 +2,11 @@
 
 **Email einrichten**
 ---
-- [ ] Kontakt Formulare
+- [x] Kontakt Formulare
 - [x] Newsletter
 - [x] Bestellung
 - [x] Warenkorb abgebrochen email errinerungen
-- [ ] Bestellungs bestätigungs email anpassen 
+- [x] Bestellungs bestätigungs email anpassen 
 
 
 
@@ -21,7 +21,7 @@
 - [ ] Tiktok und Pinterest verlinken + Accounts erstellen
 - [ ] SEO 
 - [ ] Eventuelle schreibfehler und Übersetzungen verbessern
-- [ ] Litespeed cache richtig einstellen
+- [x] Litespeed cache richtig einstellen
 - [x] Seiten Optimierung (speed usw) [✓]
 - [x] Lieferung & Rückgabe im Warenkorb bearbeiten! [✓]
 - [x] AGb's seite richtig verlinken [✓]
